@@ -1,102 +1,37 @@
-```markdown
-# 👋 Hi, I’m Jamiu Oyetunde  
+# Jamiu Oyetunde
 
-🚀 Mechanical Engineer | Aircraft Maintenance Engineer | AI & Robotics Enthusiast | Researcher  
+I'm a mechanical engineer and aircraft maintenance engineer, currently
+studying Robotics and Artificial Intelligence at ITMO University in
+St. Petersburg. Before that I spent several years maintaining Dornier 228
+aircraft — hydraulics, landing gear, flight controls, avionics and
+propulsion. That hands-on engineering background is what drives my research
+interest: making machines perceive and act reliably in the physical world.
 
-I am passionate about building intelligent systems that solve real-world technical challenges through the integration of **Artificial Intelligence, Robotics, Aerospace Engineering, Sustainable Energy, and Digital Innovation**. My work combines practical engineering experience with modern computational approaches in automation, optimization, and data-driven systems.
+My current focus is machine learning for robot perception, optimal control
+and state estimation, with an eye toward aerospace applications.
 
----
+## Selected work
 
-## 🔬 Research Interests  
+- [Machine_Learning_in_Robotics_2026](https://github.com/oyejam/Machine_Learning_in_Robotics_2026) —
+  deep learning for robot perception: road-sign classification and transfer
+  learning, semantic segmentation with a U-Net built from scratch, monocular
+  depth estimation (DenseDepth on NYU Depth V2), and unsupervised
+  representation learning with convolutional autoencoders. PyTorch and
+  TensorFlow.
+- [itmo-computer-vision-pas](https://github.com/oyejam/itmo-computer-vision-pas) —
+  the classical computer vision toolbox: segmentation, Hough transforms,
+  SIFT/ORB feature matching with panorama stitching, and Viola–Jones face
+  detection on images and video. OpenCV and scikit-image.
 
-- Artificial Intelligence (AI)  
-- Machine Learning & Data Science  
-- Robotics and Autonomous Systems  
-- Aerospace Engineering  
-- Optimal Control & State Estimation  
-- Sustainable Energy Systems  
-- Digital Engineering & Innovation  
-- Mechatronics and Embedded Systems  
-- Engineering Simulation & Computational Modelling  
+## Background
 
----
+- Robotics and Artificial Intelligence — ITMO University, St. Petersburg
+- Aircraft Maintenance Engineer — Dornier 228 turboprops
+- B.Eng. Mechanical Engineering — Ahmadu Bello University, Zaria
+- Aerospace technical training — Munich, Germany
 
-## 🌱 Currently Learning  
+Alongside engineering I tutor mathematics, physics and chemistry online.
 
-- Data Science and Analytics  
-- PyTorch for Deep Learning  
-- Robotics Simulation & Control  
-- Model Predictive Control (MPC)  
-- Embedded Systems with STM32  
-- AI Applications in Engineering Systems  
+## Contact
 
----
-
-## 🛠️ Recent Projects & Technical Work
-
-### 🤖 Robotics & Intelligent Control Systems
-- Developing optimal control algorithms for robotic systems using MATLAB and Python
-- Working on Model Predictive Control (MPC) applications for autonomous systems
-- Simulating robotic dynamics and motion planning using MuJoCo and computational tools
-
-### 🧠 AI, Machine Learning & Digital Innovation
-- Exploring AI-driven engineering solutions and intelligent automation systems
-- Building foundational projects in machine learning and data analytics
-- Applying computational methods to engineering optimization and predictive systems
-
-### ✈️ Aerospace & Aircraft Engineering
-- Performing aircraft maintenance, troubleshooting, and inspection on Dornier 228 aircraft
-- Conducting system diagnostics across hydraulics, landing gear, flight controls, avionics, and propulsion systems
-- Supporting engineering operations, maintenance planning, and safety compliance
-
-### ⚡ Sustainability & Energy Systems
-- Completed advanced studies in energy transition modelling and sustainable engineering systems
-- Researching engineering solutions that support energy efficiency and renewable integration
-
----
-
-## 💼 Professional Background  
-
-- Aircraft Maintenance Engineer — Nigerian Air Force  
-- Mechanical Engineering Graduate — Ahmadu Bello University, Zaria
-- Robotics and Artificial Intelligence - ITMO University, St. Petersburg  
-- Online STEM Tutor (Mathematics, Physics & Chemistry)  
-- Engineering Research and Technical Operations Experience  
-
----
-
-## 📚 Certifications & Training  
-
-- Applied Sustainability for Technical Managers Specialization  
-- Modelling and Measuring the Energy Transition  
-- Aerospace Technical Training — Munich, Germany  
-- Government Sponsored International Technical Training Programs  
-
----
-
-## 🤝 Looking to Collaborate On  
-
-- AI & Robotics Projects  
-- Engineering Research  
-- Open Source Innovation  
-- Aerospace and Autonomous Systems  
-- Data Science & Intelligent Automation  
-
----
-
-## 📫 Connect With Me  
-
-- GitHub: [@JamiuOyetunde](https://github.com/JamiuOyetunde)  
-- LinkedIn: *(LinkedIn)*  
-- Email: *(oyejam@gmail.com)*  
-
----
-
-## ⚡ Fun Fact  
-
-I enjoy combining engineering principles with intelligent technologies to create innovative systems that bridge the gap between physical machines and digital intelligence.
-
----
-
-⭐ *“Engineering the future through AI, Robotics, and Innovation.”*
-```
+[oyejam@gmail.com](mailto:oyejam@gmail.com)
